@@ -1,5 +1,5 @@
 # Profile Project
-- This project is a Demo Project
+- It is a static webpage about me :)
 
-## Please refer to the golas
-- list of embedded youtube videos
+## Goals
+- Present drone recordings
