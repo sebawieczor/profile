@@ -8,4 +8,4 @@ jobs:
       - uses: actions/setup-node@v1
       - run: npm install netlify-cli -g
       - run: netlify -v
-      - run: ping www.github.com
+      
